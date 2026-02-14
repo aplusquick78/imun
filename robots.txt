@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imun.8222quick.com/sitemap.xml
+
+
+
